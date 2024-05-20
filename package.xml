@@ -4,7 +4,7 @@
   <description>Beta versions of the preference Packs included with the FreeCAD distribution</description>
   <version>1.2.2</version>
   <maintainer email="email@freecad.org">MisterMaker</maintainer>
-  <license file="../../LICENSE">LGPL2</license>
+  <license file="../../LICENSE">LGPL-2.0-or-later</license>
   <url type="repository" branch="main">https://github.com/MisterMakerNL/Freecad-Built-in-themes-beta</url>
  <icon>resources/icons/Freecad-Built-in-themes-beta.svg</icon>
 
